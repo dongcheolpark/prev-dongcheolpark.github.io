@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Red Pineapple"
+  title: "INCAL"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/redpineapple/logo.png"
@@ -15,7 +15,7 @@ project:
 
 agency:
   title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/dongcheolpark/incal"
   year: "2017"
 
 images:
