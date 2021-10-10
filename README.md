@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pineapple
 
 Pineapple is a minimalistic [Jekyll](https://jekyllrb.com) portfolio theme that focuses on putting your projects in the spotlight.
@@ -53,3 +54,6 @@ Projects are created as `.md` documents within the `_posts/projects` directory. 
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
+=======
+# dongcheolpark.github.io
+>>>>>>> aa395350c09327291b9bcfaf4affdebdd0a1a330
